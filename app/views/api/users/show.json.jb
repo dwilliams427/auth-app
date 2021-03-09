@@ -1,0 +1,7 @@
+# @user.map do |user|
+#   render partial: "user.json.jb", locals: { user: user }
+# end
+
+{
+  message: "logged in successfully",
+}

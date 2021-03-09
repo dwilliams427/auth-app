@@ -1,0 +1,8 @@
+{
+  user_id: user.user_id,
+  quantity: user.quantity,
+  user_id: user.user_id,
+  total: user.total,
+  subtotal: user.subtotal,
+  tax: user.tax,
+}
